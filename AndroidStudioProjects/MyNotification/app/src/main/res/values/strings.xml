@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNotification</string>
+    <string name="action_setting">Setting</string>
+</resources>
